@@ -1,51 +1,66 @@
+<!-- Link to external CSS (Make sure the style.css is in the same directory) -->
+<link rel="stylesheet" href="style.css">
+
 # Welcome to MORPHOS Lab!
 
-<!-- Logo -->
-<img src="logo.png" alt="MORPHOS Lab Logo" width="300"/>
+<!-- Logo image (still in HTML for better control) -->
+<img src="logo.png" alt="MORPHOS Lab Logo" width="200"/>
 
 ---
 
-<!-- Navigation Bar: Added links to scroll to sections -->
+<!-- Navigation Bar (added links to scroll to sections) -->
 <nav>
   <ul style="list-style-type:none; padding: 0;">
+    <li style="display:inline; margin-right: 20px;"><a href="#about">About</a></li>
     <li style="display:inline; margin-right: 20px;"><a href="#research">Research</a></li>
-    <li style="display:inline; margin-right: 20px;"><a href="#teaching">Teaching</a></li>
-    <li style="display:inline; margin-right: 20px;"><a href="#mentorship">Mentorship</a></li>
+    <li style="display:inline; margin-right: 20px;"><a href="#people">People</a></li>
+    <li style="display:inline; margin-right: 20px;"><a href="#publications">Publications</a></li>
+    <li style="display:inline; margin-right: 20px;"><a href="#contact">Contact</a></li>
   </ul>
 </nav>
 
 ---
 
-## <a id="research"></a>Research
-<!-- Research section -->
-Here, you can describe your research interests, ongoing projects, and any notable publications. Some example text:
+## <a id="about"></a>About the Lab
+
+We study how hydrodynamics and sediment transport shape coastal and estuarine landscapes, with an emphasis on climatic drivers, complex morphologies, and their role in flooding, erosion, and ecosystem stability. Our goal is to advance knowledge that underpins sound management of flooding hazards, sustainable port development, and resilient coastal ecosystems.
+
+---
+
+## <a id="research"></a>Research Areas
 
 - Coastal delta morphodynamics
 - River–floodplain–coastal interactions
 - Coastal flooding and hazards
+- Hydrology & hydrogeology
+- Physical oceanography
+- Buoyancy-driven flows
+- Numerical & process-based modeling
+- Coastal & environmental engineering
 
 ---
 
-## <a id="teaching"></a>Teaching
-<!-- Teaching section -->
-In this section, talk about the courses you teach and any teaching philosophies or methodologies you follow. For example:
+## <a id="people"></a>People
 
-- Introduction to Coastal Science
-- Environmental Hydrodynamics
+Meet the team behind the MORPHOS Lab. (Add PI, students, and collaborators here.)
 
 ---
 
-## <a id="mentorship"></a>Mentorship
-<!-- Mentorship section -->
-This is where you can add information about mentoring students, postdocs, or anyone in your lab. For example:
+## <a id="publications"></a>Publications
 
-- Mentoring graduate students in coastal research
-- Supporting student internships and research opportunities
+A selection of our recent research papers and conference presentations. (Link to Google Scholar here.)
 
 ---
 
-<!-- Footer section: Added contact or any other info you want to share -->
+## <a id="contact"></a>Contact
+
+Email: [hvundavilli@coastal.edu](mailto:hvundavilli@coastal.edu)
+
+Department of Coastal and Marine Systems Science, Coastal Carolina University
+
+---
+
+<!-- Footer (HTML for consistency) -->
 <footer>
-  <p>Contact: <a href="mailto:vvundavil@coastal.edu">vvundavil@coastal.edu</a></p>
-  <p>&copy; 2025 MORPHOS Lab | Coastal Carolina University</p>
+  <p>&copy; 2025 The MORPHOS Lab | Coastal Carolina University</p>
 </footer>
