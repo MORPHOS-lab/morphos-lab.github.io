@@ -5,6 +5,9 @@ title: MORPHOS Lab
 
 # Welcome to the MORPHOS Lab
 
+![MORPHOS Lab Logo](logo.png)
+
+
 We study how water, sediment, and landscapes interact in coastal and delta environments.
 
 Our research explores:
