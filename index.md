@@ -1,25 +1,31 @@
+# Welcome to MORPHOS Lab!
+
+![MORPHOS Lab Logo](logo.png)
+
 ---
-layout: default
-title: MORPHOS Lab
+
+## Research
+
+Here, you can describe your research interests, ongoing projects, and any notable publications. Some example text:
+
+- Coastal delta morphodynamics
+- River–floodplain–coastal interactions
+- Coastal flooding and hazards
+
 ---
 
-# Welcome to the MORPHOS Lab
+## Teaching
 
-<img src="logo.png" alt="MORPHOS Lab Logo" width="300"/>
+In this section, talk about the courses you teach and any teaching philosophies or methodologies you follow. For example:
 
+- Introduction to Coastal Science
+- Environmental Hydrodynamics
 
+---
 
-We study how water, sediment, and landscapes interact in coastal and delta environments.
+## Mentorship
 
-Our research explores:
-- How rivers, tides, and waves shape deltas
-- How floodplains connect with coasts
-- How storms and sea level affect flooding
-- How to model and predict coastal change
+This is where you can add information about mentoring students, postdocs, or anyone in your lab. For example:
 
-We combine science and engineering to solve real-world problems like:
-- Coastal flooding
-- Erosion
-- Ecosystem resilience 
-
-More sections coming soon!
+- Mentoring graduate students in coastal research
+- Supporting student internships and research opportunities
