@@ -4,7 +4,7 @@
 # Welcome to MORPHOS Lab!
 
 <!-- Logo image (still in HTML for better control) -->
-<img src="logo.png" alt="MORPHOS Lab Logo" width="200"/>
+<img src="logo.png" alt="MORPHOS Lab Logo" width="300"/>
 
 ---
 
@@ -15,6 +15,7 @@
     <li style="display:inline; margin-right: 20px;"><a href="#research">Research</a></li>
     <li style="display:inline; margin-right: 20px;"><a href="#people">People</a></li>
     <li style="display:inline; margin-right: 20px;"><a href="#publications">Publications</a></li>
+    <li style="display:inline; margin-right: 20px;"><a href="#projects">Projects</a></li>
     <li style="display:inline; margin-right: 20px;"><a href="#contact">Contact</a></li>
   </ul>
 </nav>
@@ -37,6 +38,24 @@ We study how hydrodynamics and sediment transport shape coastal and estuarine la
 - Buoyancy-driven flows
 - Numerical & process-based modeling
 - Coastal & environmental engineering
+
+---
+
+## <a id="projects"></a>Ongoing Projects
+
+Here are some of the exciting projects that we are currently working on:
+
+### 1. **Project Name 1**  
+   A brief description of your project. This could include objectives, methods, or key findings.  
+   [Link to more details](#)
+
+### 2. **Project Name 2**  
+   A brief description of another project. Again, you can link to further details or publications here.  
+   [Link to more details](#)
+
+### 3. **Project Name 3**  
+   A brief description of another ongoing project.  
+   [Link to more details](#)
 
 ---
 
