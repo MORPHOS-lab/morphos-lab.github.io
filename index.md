@@ -16,6 +16,6 @@ Our research explores:
 We combine science and engineering to solve real-world problems like:
 - Coastal flooding
 - Erosion
-- Ecosystem resilience
+- Ecosystem resilience 
 
 More sections coming soon!
