@@ -1,6 +1,7 @@
 # Welcome to MORPHOS Lab!
 
-![MORPHOS Lab Logo](logo.png)
+<img src="logo.png" alt="MORPHOS Lab Logo" width="300"/>
+
 
 ---
 
