@@ -1,3 +1,4 @@
+/* Root variables for colors */
 :root {
   --primary: #0f4c81;
   --secondary: #1a7ca8;
@@ -5,6 +6,7 @@
   --light-bg: #f9fafb;
 }
 
+/* Body styles */
 body {
   font-family: "Helvetica Neue", Arial, sans-serif;
   margin: 0;
@@ -15,20 +17,28 @@ body {
 
 /* Header */
 header {
-  text-align: center;
+  display: flex;
+  align-items: center; /* Vertically centers the items */
+  justify-content: center;
   padding: 2rem 1rem;
   border-bottom: 2px solid var(--primary);
 }
-header img {
-  width: 90px;
-  display: block;
-  margin: 0 auto 1rem;
+
+header .logo-container {
+  display: flex;
+  align-items: center; /* Vertically centers the logo and title */
 }
+
+header img {
+  margin-right: 1rem; /* Adds some space between the logo and title */
+}
+
 header h1 {
   font-size: 2rem;
-  margin: 0.2rem 0;
+  margin: 0;
   color: var(--primary);
 }
+
 header p {
   font-size: 1rem;
   margin: 0;
@@ -41,12 +51,14 @@ nav {
   padding: 0.75rem;
   background: var(--primary);
 }
+
 nav a {
   color: white;
   margin: 0 1rem;
   text-decoration: none;
   font-weight: 500;
 }
+
 nav a:hover {
   text-decoration: underline;
 }
@@ -57,12 +69,14 @@ main {
   margin: 2rem auto;
   padding: 0 1.5rem;
 }
+
 h2 {
   color: var(--primary);
   margin-bottom: 0.5rem;
   border-bottom: 1px solid #ddd;
   padding-bottom: 0.25rem;
 }
+
 ul {
   padding-left: 1.2rem;
 }
