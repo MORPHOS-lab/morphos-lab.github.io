@@ -3,8 +3,14 @@
 
 # Welcome to MORPHOS Lab!
 
-<!-- Logo image (still in HTML for better control) -->
-<img src="logo.png" alt="MORPHOS Lab Logo" width="300"/>
+<!-- Updated Header with Flexbox layout -->
+<header>
+  <div class="logo-container">
+    <img src="logo.png" alt="MORPHOS Lab Logo" width="90" /> <!-- Adjust the width here if needed -->
+    <h1>The MORPHOS Lab</h1>
+  </div>
+  <p>Morphodynamics, Resilience, and Processes of Hydrology, Oceans, and Shores</p>
+</header>
 
 ---
 
